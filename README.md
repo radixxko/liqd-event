@@ -1,1 +1,1 @@
-# liqd-event
+# liqd-events
