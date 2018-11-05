@@ -1,7 +1,7 @@
 {
   "name": "liqd-event",
   "description": "EventEmmiter / Handler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/event.js",
