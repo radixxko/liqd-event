@@ -1,7 +1,7 @@
 {
   "name": "liqd-event",
   "description": "EventEmmiter / Handler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/event.js",
@@ -22,8 +22,8 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "coveralls": "^3.0.0",
+    "coveralls": "^3.0.4",
     "mocha": "^5.0.4",
-    "nyc": "^11.6.0"
+    "nyc": "^14.1.1"
   }
 }
